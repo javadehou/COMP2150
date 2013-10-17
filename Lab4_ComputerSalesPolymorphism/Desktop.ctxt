@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=ramGB\ hdGB\ otherSpec
+comment0.target=Desktop(int,\ int,\ int)
+comment1.params=
+comment1.target=Desktop()
+comment2.params=
+comment2.target=double\ getCost()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
