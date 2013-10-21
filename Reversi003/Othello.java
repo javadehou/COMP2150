@@ -15,7 +15,7 @@ public class Othello
     static int col;
     static int color = 1;       //by default black goes first
     static boolean gameMode;    //true = 2 player, false = 1 player
-    boolean error = false;
+    static boolean error = false;
     
     
     //the game flow for 2-player mode
@@ -122,7 +122,7 @@ public class Othello
                 gameMode = keyboard.nextBoolean();          //this gives the user the option of playing against the computer or with a human
                 error = false;
             }
-            catch (InputMismatchException e)
+            catch (Exception e)
             {
                 System.out.println("not a valid answer");
                 error = true;
