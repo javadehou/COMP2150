@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project Reverse Polish Notation Calculator for COMP2150
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: RPNCalculator
+PURPOSE OF PROJECT: Takes infix input and converts to postfix for basic arithmetic operations
+VERSION or DATE: 11/21/13
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Austin, Brian, James
 USER INSTRUCTIONS:
