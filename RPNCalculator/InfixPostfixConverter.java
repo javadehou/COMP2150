@@ -94,6 +94,8 @@ public class InfixPostfixConverter
         
     }
     
+    
+    //processes the operator
     private void processOperator(char op)
     {
         if (operatorStack.empty() || op == '(')
